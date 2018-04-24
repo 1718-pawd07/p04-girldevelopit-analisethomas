@@ -1,0 +1,45 @@
+/*
+* Analise Thomas
+* April 30, 2018
+* Project 4 Girl DevIt CSS
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body { 
+    background-color: #efd7d7; 
+}
+/* the color is in hex form */
+header {
+	background-color: #e85f5f;
+}
+h2 {
+	font-family: "Lucida Calligraphy";
+	text-decoration: underline;
+}
+h3 {
+	font-family: "Lucida Calligraphy";
+	text-decoration: underline;
+}
+/* the image will float center */
+header img {
+	float: center;
+}
+main img {
+	float: right;
+}
+a:visited { 
+	color: #8f42f4;
+	text-decoration: underline; 
+}
+a:hover, a:focus {
+	background-color: #efd7d7;
+	color: #f442f1; 
+}
