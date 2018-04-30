@@ -31,6 +31,8 @@ h3 {
 /* the image will float center */
 header img {
 	float: center;
+	width: 760;
+	height: 170;
 }
 main img {
 	float: right;
