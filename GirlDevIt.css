@@ -36,6 +36,8 @@ header img {
 }
 main img {
 	float: right;
+	width: 310;
+	height: 190;
 }
 a:visited { 
 	color: #8f42f4;
